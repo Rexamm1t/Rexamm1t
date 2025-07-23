@@ -10,6 +10,6 @@ href="https://github.com/Rexamm1t/Extract"
 
 ## I know Python, C++, C, Java, PHP, JavaScript, HTML, CSS and a couple more languages)
 
-### I am developing the Extract project, together with Wefol1x. I recommend visiting the repository of this platform (link at the beginning).
+I am developing the **__Extract__** project, together with Wefol1x. I recommend visiting the repository of this platform (link at the beginning).
 
 ## Я из России🇷🇺
