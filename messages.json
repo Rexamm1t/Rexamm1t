@@ -7,7 +7,7 @@
     },
     "Dhdhdhd": {
       "name": "Dhdhdhd",
-      "lastSeen": "2025-10-03T14:41:22.674Z",
+      "lastSeen": "2025-10-03T14:41:23.318Z",
       "isOnline": true
     }
   },
@@ -52,6 +52,14 @@
         "text": "Приветик",
         "time": "2025-10-03T14:41:14.167Z",
         "isGlobal": true
+      },
+      {
+        "id": "mgaycl12e5m4o3s048q",
+        "from": "Dhdhdhd",
+        "to": null,
+        "text": "Приветик",
+        "time": "2025-10-03T14:41:23.318Z",
+        "isGlobal": true
       }
     ],
     "Dhdhdhd_Dhdhdhdh": [
@@ -65,5 +73,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-10-03T14:41:22.690Z"
+  "lastUpdate": "2025-10-03T14:41:23.624Z"
 }
