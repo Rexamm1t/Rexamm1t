@@ -1,7 +1,22 @@
 {
-  "users": {},
-  "conversations": {
-    "global": []
+  "users": {
+    "Dhdhdhdh": {
+      "name": "Dhdhdhdh",
+      "lastSeen": "2025-10-03T14:20:18.573Z",
+      "isOnline": true
+    }
   },
-  "lastUpdate": "2025-10-03T14:20:17.956Z"
+  "conversations": {
+    "global": [
+      {
+        "id": "mgaxlh4wjzq9mn1z60j",
+        "from": "Dhdhdhdh",
+        "to": null,
+        "text": "Всем привет!",
+        "time": "2025-10-03T14:20:18.572Z",
+        "isGlobal": true
+      }
+    ]
+  },
+  "lastUpdate": "2025-10-03T14:20:18.894Z"
 }
