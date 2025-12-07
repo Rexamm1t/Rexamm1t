@@ -12,5 +12,5 @@ href="https://github.com/Rexamm1t/Extract"
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Rexamm1t&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1624" height="175px"/></a>
 
 ### I know Shell, C++, C, JavaScript, HTML, CSS and a couple more languages)
-![](https://github-contributor-stats.vercel.app/api?username=Rexamm1t&limit=3&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Rexamm1t&limit=3&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1624" height="175px"&combine_all_yearly_contributions=true)
 I will be very happy to work on something together)
